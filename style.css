@@ -1,4 +1,8 @@
 .divimg{
-    width: 450px!important;
-    height: 350px!important;
+    width: 300px!important;
+
+}
+.todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
